@@ -1,0 +1,325 @@
+1655805823983	geckodriver	INFO	Listening on 127.0.0.1:58843
+1655805827074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileyeSLfX"
+1655805828398	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileyeSLfX\\search.json.mozlz4", (void 0)))
+1655805832933	Marionette	INFO	Listening on port 65217
+Read port: 65217
+1655805833057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655805835241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 6016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655806020872	Marionette	INFO	Stopped listening on port 65217
+[Parent 756, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+_mozprofile1Iy8rw"
+1655806006137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofile1Iy8rw\\search.json.mozlz4", (void 0)))
+1655806009850	Marionette	INFO	Listening on port 60643
+Read port: 60643
+1655806010040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655806012124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655806017238	Marionette	INFO	Stopped listening on port 60643
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655806059919	geckodriver	INFO	Listening on 127.0.0.1:61746
+1655806062988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileAnILPg"
+1655806063864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileAnILPg\\search.json.mozlz4", (void 0)))
+1655806067164	Marionette	INFO	Listening on port 61779
+Read port: 61779
+1655806067318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655806069679	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 1681 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655806111514	Marionette	INFO	Stopped listening on port 61779
+1655806120507	geckodriver	INFO	Listening on 127.0.0.1:61916
+1655806123545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofile4l7h7z"
+1655806124501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofile4l7h7z\\search.json.mozlz4", (void 0)))
+1655806128025	Marionette	INFO	Listening on port 61964
+Read port: 61964
+1655806128179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655806130170	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 295 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655806168923	Marionette	INFO	Stopped listening on port 61964
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9732, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1655806403483	geckodriver	INFO	Listening on 127.0.0.1:55299
+1655806406594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofilegbUXMS"
+1655806407822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofilegbUXMS\\search.json.mozlz4", (void 0)))
+1655806411818	Marionette	INFO	Listening on port 56209
+Read port: 56209
+1655806411958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655806413806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 2350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgna1655806461172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileEqcWzb"
+1655806462282	Marionette	INFO	Marionette enabled
+console.w1655806515500	Marionette	INFO	Stopped listening on port 56209
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1655806700715	geckodriver	INFO	Listening on 127.0.0.1:51305
+1655806703801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileK1zEDl"
+1655806704830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileK1zEDl\\search.json.mozlz4", (void 0)))
+1655806708835	Marionette	INFO	Listening on port 51349
+Read port: 51349
+1655806709010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655806711009	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 1969 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655806754252	Marionette	INFO	Stopped listening on port 51349
+[Parent 15040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1655806975326	geckodriver	INFO	Listening on 127.0.0.1:61873
+1655806978430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileZzLo28"
+1655806979429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileZzLo28\\search.json.mozlz4", (void 0)))
+1655806982967	Marionette	INFO	Listening on port 61905
+Read port: 61905
+1655806983064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655806985786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 6126 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655807411744	Marionette	INFO	Stopped listening on port 61905
+5807074444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileYKtI1u"
+1655807075966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileYKtI1u\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655807083916	Marionette	INFO	Listening on port 57768
+Read port: 57768
+1655807084042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655807090001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655807093784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 4973 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655807413328	Marionette	INFO	Stopped listening on port 57768
+5807176071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileT7owhT"
+1655807177106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileT7owhT\\search.json.mozlz4", (void 0)))
+1655807181023	Marionette	INFO	Listening on port 59056
+Read port: 59056
+1655807181172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655807183910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 1214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655807414986	Marionette	INFO	Stopped listening on port 59056
+5807312542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofilex5ZhM2"
+1655807314015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofilex5ZhM2\\search.json.mozlz4", (void 0)))
+1655807318326	Marionette	INFO	Listening on port 55443
+Read port: 55443
+1655807318438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655807321237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 1000 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655807415721	Marionette	INFO	Stopped listening on port 55443
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1655817730503	geckodriver	INFO	Listening on 127.0.0.1:55136
+1655817733584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileh7iyQi"
+1655817734999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofileh7iyQi\\search.json.mozlz4", (void 0)))
+1655817740105	Marionette	INFO	Listening on port 55170
+Read port: 55170
+1655817740288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655817743490	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 1286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1655821167621	Marionette	INFO	Stopped listening on port 55170
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+1655823883423	geckodriver	INFO	Listening on 127.0.0.1:64670
+1655823886558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofilead28CR"
+1655823887812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tista\\AppData\\Local\\Temp\\rust_mozprofilead28CR\\search.json.mozlz4", (void 0)))
+1655823892133	Marionette	INFO	Listening on port 64699
+Read port: 64699
+1655823892211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655823894890	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1655823898802	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.makemytrip.com/onZhFzBd/dI5/HrP/MqGgP2oQ7i/tiO9XrwQQEp9/CQYoAg/NnBG/ZksrA3g, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WNU-PBcfckz-ZJNp77gnGR6umJykUHtANN-D9hj8G6g.js line 2 > eval line 5409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655823917618	Marionette	INFO	Stopped listening on port 64699
+[Parent 10108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
